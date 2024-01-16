@@ -1,0 +1,67 @@
+# Web3 Technology Resources
+
+- Learn Solidity language is first priority
+
+- Search ON Google - Security aspects of smart contracts
+
+- Learn How to use foundry
+
+- https://medium.com/@matthew-pan/brief-note-on-smart-contract-auditing-5ea3fcd25b6e
+
+- https://merunasgrincalaitis.medium.com/the-ultimate-guide-to-learn-solidity-from-scratch-by-building-a-lending-dapp-step-by-step-in-2024-72d59085313
+
+- https://www.youtube.com/watch?v=oGUqr0vzqss
+
+- https://medium.com/@JohnnyTime/how-to-hack-smart-contracts-a-beginners-guide-to-smart-contract-hacking-17670238fcf6
+
+- https://medium.com/@senaaslibay/10-most-common-ethereum-smart-contractvulnerabilities-62008c5f54e0
+
+- https://ethernaut.openzeppelin.com/ Best resource for web hacking.
+
+- https://youtu.be/pUWmJ86X_do
+
+- https://infosecwriteups.com/hacking-web3-introduction-and-how-to-start-88ae2c51f3ec
+
+- https://learnweb3.io/
+
+- https://www.youtube.com/watch?v=AbhPnf3gHv4&list=WL&index=1&pp=gAQBiAQB
+
+- https://github.com/immunefi-team/Web3-Security-Library?utm_source=immunefi
+
+- https://medium.com/coinmonks/getting-started-web3-bug-bounties-and-security-2b28c8646f63?source=list-16e4a940d47f--------0-------0f9bbc185cd5---------------------
+
+- https://medium.com/block-magnates/critical-web3-bug-bounty-finding-stealing-tokens-from-o3-bridge-users-9af463b64caa?source=list-16e4a940d47f--------0-------0f9bbc185cd5---------------------
+
+- https://youtu.be/g2G8no6hOsA
+
+- https://www.web3.university/
+
+- https://learnweb3.io/
+
+- https://www.youtube.com/watch?v=oGUqr0vzqss&pp=ygUPd2ViMyBidWcgYm91bnR5
+
+- https://youtu.be/e7m-I3jSbUQ?si=D6CiVFjsxbMlF-pq
+
+- https://github.com/sigp/solidity-security-blog
+
+- https://swcregistry.io/docs/SWC-100/
+
+- https://github.com/SunWeb3Sec/DeFiHackLabs
+
+- https://github.com/OpenZeppelin/openzeppelin-contracts/security/advisories
+
+- https://github.com/spearbit/portfolio/tree/master/pdfs
+
+- https://github.com/immunefi-team/Web3-Security-Library/tree/main/BugFixReviews
+
+- https://ventral.digital/posts/2022/12/15/ethereum-smart-contract-auditors-2022-rewind/
+
+- https://code4rena.com/reports
+
+- https://github.com/orgs/sherlock-audit/repositories?q=-judging
+
+- https://blog.openzeppelin.com/tag/security-audits
+
+- https://github.com/Anugrahsr/Awesome-web3-Security
+
+- https://github.com/sayan011/Immunefi-bug-bounty-writeups-list
